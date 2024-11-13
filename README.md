@@ -8,5 +8,6 @@
 
 #### auth-service/  鉴权中中心
 
-#### document-service/  文档中心 
+#### common/  公共模块
+
 
